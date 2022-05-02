@@ -66,3 +66,6 @@ gem 'devise', '~> 4.8', '>= 4.8.1'
 
 # Active admin gem for super admin panel
 gem 'activeadmin'
+
+# Added for debugging
+gem 'pry'
